@@ -1,0 +1,17 @@
+D:\projects\Projekt1_Kravchenko\bin\Debug\net6.0-windows\Projekt1_Kravchenko58603.exe
+D:\projects\Projekt1_Kravchenko\bin\Debug\net6.0-windows\Projekt1_Kravchenko58603.deps.json
+D:\projects\Projekt1_Kravchenko\bin\Debug\net6.0-windows\Projekt1_Kravchenko58603.runtimeconfig.json
+D:\projects\Projekt1_Kravchenko\bin\Debug\net6.0-windows\Projekt1_Kravchenko58603.dll
+D:\projects\Projekt1_Kravchenko\bin\Debug\net6.0-windows\ref\Projekt1_Kravchenko58603.dll
+D:\projects\Projekt1_Kravchenko\bin\Debug\net6.0-windows\Projekt1_Kravchenko58603.pdb
+D:\projects\Projekt1_Kravchenko\obj\Debug\net6.0-windows\Projekt1_Kravchenko.Form1.resources
+D:\projects\Projekt1_Kravchenko\obj\Debug\net6.0-windows\Projekt1_Kravchenko58603.Properties.Resources.resources
+D:\projects\Projekt1_Kravchenko\obj\Debug\net6.0-windows\Projekt1_Kravchenko58603.csproj.GenerateResource.cache
+D:\projects\Projekt1_Kravchenko\obj\Debug\net6.0-windows\Projekt1_Kravchenko58603.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Projekt1_Kravchenko\obj\Debug\net6.0-windows\Projekt1_Kravchenko58603.AssemblyInfoInputs.cache
+D:\projects\Projekt1_Kravchenko\obj\Debug\net6.0-windows\Projekt1_Kravchenko58603.AssemblyInfo.cs
+D:\projects\Projekt1_Kravchenko\obj\Debug\net6.0-windows\Projekt1_Kravchenko58603.csproj.CoreCompileInputs.cache
+D:\projects\Projekt1_Kravchenko\obj\Debug\net6.0-windows\Projekt1_Kravchenko58603.dll
+D:\projects\Projekt1_Kravchenko\obj\Debug\net6.0-windows\ref\Projekt1_Kravchenko58603.dll
+D:\projects\Projekt1_Kravchenko\obj\Debug\net6.0-windows\Projekt1_Kravchenko58603.pdb
+D:\projects\Projekt1_Kravchenko\obj\Debug\net6.0-windows\Projekt1_Kravchenko58603.genruntimeconfig.cache
