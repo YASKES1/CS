@@ -1,0 +1,24 @@
+C:\Users\lordm\Desktop\Project3_DzianisVaitsiakhovich58918_\bin\Debug\Project3_MykhailoKravchenko58603.exe.config
+C:\Users\lordm\Desktop\Project3_DzianisVaitsiakhovich58918_\bin\Debug\Project3_MykhailoKravchenko58603.exe
+C:\Users\lordm\Desktop\Project3_DzianisVaitsiakhovich58918_\bin\Debug\Project3_MykhailoKravchenko58603.pdb
+C:\Users\lordm\Desktop\Project3_DzianisVaitsiakhovich58918_\obj\Debug\Project3_MykhailoKravchenko58603.csproj.AssemblyReference.cache
+C:\Users\lordm\Desktop\Project3_DzianisVaitsiakhovich58918_\obj\Debug\Project3_MykhailoKravchenko58603.Lab.resources
+C:\Users\lordm\Desktop\Project3_DzianisVaitsiakhovich58918_\obj\Debug\Project3_MykhailoKravchenko58603.mainForm.resources
+C:\Users\lordm\Desktop\Project3_DzianisVaitsiakhovich58918_\obj\Debug\Project3_MykhailoKravchenko58603.Project3.resources
+C:\Users\lordm\Desktop\Project3_DzianisVaitsiakhovich58918_\obj\Debug\Project3_MykhailoKravchenko58603.Properties.Resources.resources
+C:\Users\lordm\Desktop\Project3_DzianisVaitsiakhovich58918_\obj\Debug\Project3_MykhailoKravchenko58603.csproj.GenerateResource.cache
+C:\Users\lordm\Desktop\Project3_DzianisVaitsiakhovich58918_\obj\Debug\Project3_MykhailoKravchenko58603.csproj.CoreCompileInputs.cache
+C:\Users\lordm\Desktop\Project3_DzianisVaitsiakhovich58918_\obj\Debug\Project3_MykhailoKravchenko58603.exe
+C:\Users\lordm\Desktop\Project3_DzianisVaitsiakhovich58918_\obj\Debug\Project3_MykhailoKravchenko58603.pdb
+C:\Users\lordm\Desktop\mykhailo kravchenko 58603\bin\Debug\Project3_MykhailoKravchenko58603.exe.config
+C:\Users\lordm\Desktop\mykhailo kravchenko 58603\bin\Debug\Project3_MykhailoKravchenko58603.exe
+C:\Users\lordm\Desktop\mykhailo kravchenko 58603\bin\Debug\Project3_MykhailoKravchenko58603.pdb
+C:\Users\lordm\Desktop\mykhailo kravchenko 58603\obj\Debug\Project3_MykhailoKravchenko58603.csproj.AssemblyReference.cache
+C:\Users\lordm\Desktop\mykhailo kravchenko 58603\obj\Debug\Project3_MykhailoKravchenko58603.Lab.resources
+C:\Users\lordm\Desktop\mykhailo kravchenko 58603\obj\Debug\Project3_MykhailoKravchenko58603.mainForm.resources
+C:\Users\lordm\Desktop\mykhailo kravchenko 58603\obj\Debug\Project3_MykhailoKravchenko58603.Project3.resources
+C:\Users\lordm\Desktop\mykhailo kravchenko 58603\obj\Debug\Project3_MykhailoKravchenko58603.Properties.Resources.resources
+C:\Users\lordm\Desktop\mykhailo kravchenko 58603\obj\Debug\Project3_MykhailoKravchenko58603.csproj.GenerateResource.cache
+C:\Users\lordm\Desktop\mykhailo kravchenko 58603\obj\Debug\Project3_MykhailoKravchenko58603.csproj.CoreCompileInputs.cache
+C:\Users\lordm\Desktop\mykhailo kravchenko 58603\obj\Debug\Project3_MykhailoKravchenko58603.exe
+C:\Users\lordm\Desktop\mykhailo kravchenko 58603\obj\Debug\Project3_MykhailoKravchenko58603.pdb
